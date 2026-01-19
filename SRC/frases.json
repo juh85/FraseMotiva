@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "frase": "A vida é um teste. Se você passar, você vence. Se você falhar, você aprende.",
+        "autor": "Autor desconhecido"
+    },
+    {
+        "id": 2,
+        "frase": "O saber se aprende com os mestres. A sabedoria, só com o corriqueiro da vida.",
+        "autor": "Cora Coralina"
+    },
+    {
+        "id": 3,
+        "frase": "Lute com determinação, abrace a vida com paixão, perca com classe e vença com ousadia, porque o mundo pertence a quem se atreve e a vida é muito para ser insignificante.",
+        "autor": "Augusto Branco"
+    },
+    {
+        "id": 4,
+        "frase": "Todos os dias são uma oportunidade para recomeçar e para planejar um novo caminho. Siga com fé e acredite em você.",
+        "autor": "Autor desconhecido"
+    },
+    {
+        "id": 5,
+        "frase": "A palavra “impossível” foi inventada para ser desafiada.",
+        "autor": "Autor desconhecido"
+    },
+    {
+        "id": 6,
+        "frase": "Os dias difíceis são a forma mais rápida de aprendermos a apreciar os bons.",
+        "autor": "Autor desconhecido"
+    },
+    {
+        "id": 7,
+        "frase": "A coragem está um passo à frente do medo.",
+        "autor": "Coleman Young"
+    },
+    {
+        "id": 8,
+        "frase": "A vitalidade é demonstrada não apenas pela persistência, mas pela capacidade de começar de novo.",
+        "autor": "F. Scott Fitzgerald"
+    },
+    {
+        "id": 9,
+        "frase": "Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos.",
+        "autor": "Friedrich Nietzsche"
+    },
+    {
+        "id": 10,
+        "frase": "Comece fazendo o que é necessário, depois o que é possível, e de repente você estará fazendo o impossível.",
+        "autor": "São Francisco de Assis"
+    },
+    {
+        "id": 11,
+        "frase": "A força não provém da capacidade física. Provém de uma vontade indomável.",
+        "autor": "Mahatma Gandhi"
+    },
+    {
+        "id": 12,
+        "frase": "Acredite em si próprio e chegará um dia em que os outros não terão outra escolha senão acreditar com você..",
+        "autor": "Cynthia Kersey"
+    },
+    {
+        "id": 13,
+        "frase": "Transportai um punhado de terra todos os dias e fareis uma montanha.",
+        "autor": "Confúcio"
+    },
+    {
+        "id": 14,
+        "frase": "Gostaria que você soubesse que existe dentro de si uma força capaz de mudar sua vida. Basta que lute e aguarde um novo amanhecer.",
+        "autor": "Margaret Thatcher"
+    },
+    {
+        "id": 15,
+        "frase": "A única forma de chegar ao impossível é acreditar que é possível.",
+        "autor": "Alice no País das Maravilhas"
+    },
+    {
+        "id": 16,
+        "frase": "A vida se contrai e se expande proporcionalmente à coragem do indivíduo.",
+        "autor": "Anaïs Nin"
+    },
+    {
+        "id": 17,
+        "frase": "Você precisa fazer aquilo que pensa que não é capaz de fazer.",
+        "autor": "Eleanor Roosevelt"
+    },
+    {
+        "id": 18,
+        "frase": "Cuide-se como se você fosse de ouro, ponha-se você mesmo de vez em quando numa redoma e poupe-se.",
+        "autor": "Clarice Lispector"
+    },
+    {
+        "id": 19,
+        "frase": "Não há ninguém que faça tudo o que você faz, mas você pode fazer tudo o que alguém faz.",
+        "autor": "Margaret Thatcher"
+    },
+    {
+        "id": 20,
+        "frase": "Para navegar contra a corrente são necessárias condições raras: espírito de aventura, coragem, perseverança e paixão.",
+        "autor": "Nise da Silveira"
+    },
+    {
+        "id": 21,
+        "frase": "A nossa maior glória não reside no fato de nunca cairmos, mas sim em levantarmo-nos sempre depois de cada queda.",
+        "autor": "Oliver Goldsmith"
+    },
+    {
+        "id": 22,
+        "frase": "A paz vem de dentro de você mesmo. Não a procure à sua volta.",
+        "autor": "Buda"
+    },
+    {
+        "id": 23,
+        "frase": "Existe apenas um canto do universo que você pode ter certeza de aperfeiçoar, que é você mesmo.",
+        "autor": "Aldous Huxley"
+    },
+    {
+        "id": 24,
+        "frase": "A força mais potente do universo é a fé.",
+        "autor": "Madre Teresa de Calcutá"
+    },
+    {
+        "id": 25,
+        "frase": "Faça sua parte e não se preocupe com os outros. Acredite que Deus também fala com eles, e que eles estão tão empenhados quanto você em descobrir o sentido da vida.",
+        "autor": "Paulo Coelho"
+    },
+    {
+        "id": 26,
+        "frase": "A fé e a esperança são os melhores combustíveis do motor do corpo.",
+        "autor": "Autor desconhecido"
+    },  
+    {
+        "id": 27,
+        "frase": "A primavera chegará, mesmo que ninguém mais saiba seu nome, nem acredite no calendário, nem possua jardim para recebê-la.",
+        "autor": "Cecília Meireles"
+    },
+    {
+        "id": 28,
+        "frase": "Existe um momento na vida de cada pessoa que é possível sonhar e realizar nossos sonhos… e esse momento tão fugaz chama-se presente e tem a duração do tempo que passa.",
+        "autor": "Mario Quintana"
+    },
+    {
+        "id": 29,
+        "frase": "O único lugar onde sucesso vem antes do trabalho é no dicionário.",
+        "autor": "Albert Einsten"
+    },
+    {
+        "id": 30,
+        "frase": "Um sonho é apenas um desejo, até o momento em que você começa a atuar sobre ele, e propõe-se a transformá-lo em uma meta.",
+        "autor": "Mary Kay Ash"
+    },
+    {
+        "id": 31,
+        "frase": "Coloque seu coração, mente e alma até mesmo nas menores coisas que você fizer. Esse é o segredo para o sucesso.",
+        "autor": "Guilherme Ávila"
+    },
+    {
+        "id": 32,
+        "frase": "Errei mais de 9.000 cestas e perdi quase 300 jogos. Em 26 diferentes finais de partidas fui encarregado de jogar a bola que venceria o jogo... e falhei. Eu tenho uma história repleta de falhas e fracassos em minha vida. E é exatamente por isso que sou um sucesso.",
+        "autor": "Michael Jordan"
+    },
+    {
+        "id": 33,
+        "frase": "Sucesso é encontrar aquilo que se tenciona ser e depois fazer o que é necessário para isso.",
+        "autor": "Epicteto"
+    },
+    {
+        "id": 34,
+        "frase": "O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis.",
+        "autor": "José de Alencar"
+    },
+    {
+        "id": 35,
+        "frase": "O homem não teria alcançado o possível se, repetidas vezes, não tivesse tentado o impossível.",
+        "autor": "Max Weber"
+    },
+    {
+        "id": 36,
+        "frase": "Determinação, coragem e autoconfiança são fatores decisivos para o sucesso. Se estamos possuídos por uma inabalável determinação, conseguiremos superá-los. Independentemente das circunstâncias, devemos ser sempre humildes, recatados e despidos de orgulho.",
+        "autor": "Dalai Lama"
+    },
+    {
+        "id": 37,
+        "frase": "Suba o primeiro degrau com fé. Não é necessário que você veja toda a escada. Apenas dê o primeiro passo.",
+        "autor": "Martin Luther King"
+    },
+    {
+        "id": 38,
+        "frase": "Ter uma melhora constante é melhor do que a perfeição adiada.",
+        "autor": "Mark Twain"
+    },
+    {
+        "id": 39,
+        "frase": "Acredito que uma regra simples do mundo dos negócios é: se você faz as coisas mais fáceis primeiro, então você pode de fato ter um grande progresso.",
+        "autor": "Mark Zuckerberg"
+    },
+    {
+        "id": 40,
+        "frase": "O sucesso é atingido duas vezes: a primeira na mente e a segunda no mundo real.",
+        "autor": "Azim Premji"
+    },
+    {
+        "id": 41,
+        "frase": "Se os teus sonhos não te assustam, eles não são grandes o suficiente.",
+        "autor": "Ellen Johnson Sirleaf"
+    },
+    {
+        "id": 42,
+        "frase": "O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.",
+        "autor": "Winston Churchill"
+    },
+    {
+        "id": 43,
+        "frase": "Vamos inventar o amanhã e parar de nos preocupar com o passado.",
+        "autor": "Steve Jobs"
+    },
+    {
+        "id": 44,
+        "frase": "A persistência é o caminho do êxito.",
+        "autor": "Charles Chaplin"
+    },
+    {
+        "id": 45,
+        "frase": "Somos feitos de carne, mas temos de viver como se fôssemos de ferro.",
+        "autor": "Sigmund Freud"
+    },
+    {
+        "id": 46,
+        "frase": "Você nunca deve ter medo do que está fazendo quando está certo.",
+        "autor": "Rosa Parks"
+    },
+    {
+        "id": 47,
+        "frase": "Além da nobre arte de fazer coisas, existe a nobre arte de deixar coisas sem fazer. A sabedoria da vida consiste na eliminação do que não é essencial.",
+        "autor": "Lin Yutang"
+    },
+    {
+        "id": 48,
+        "frase": "Gostaria que você soubesse que existe dentro de si uma força capaz de mudar sua vida, basta que lute e aguarde um novo amanhecer.",
+        "autor": "Margaret Thatcher"
+    },
+    {
+        "id": 49,
+        "frase": "Não ergas alto um edifício sem fortes alicerces, se o fizeres viverás com medo",
+        "autor": "Sabedoria Persa"
+    },
+    {
+        "id": 50,
+        "frase": "Não basta adquirir sabedoria; é preciso, além disso, saber utilizá-la.",
+        "autor": "Cícero"
+    }
+]

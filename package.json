@@ -1,0 +1,24 @@
+{
+  "name": "frasemotiva",
+  "version": "1.0.0",
+  "description": "Gerador de frases motivacionais",
+  "main": "SRC/server.js",
+  "scripts": {
+    "start": "node SRC/server.js",
+    "dev": "nodemon SRC/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juh85/FraseMotiva.git"
+  },
+  "keywords": [],
+  "author": "Juliana Cordeiro",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1"
+  }, 
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}

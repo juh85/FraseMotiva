@@ -44,6 +44,9 @@
             const fraseAl = document.getElementById('frase');
             const autorAl = document.getElementById('autor');
 
+            fraseAl.classList.add('loading');
+            fraseAl.style.opacity = '1';
+            autorAl.style.opacity = '0';
             fraseAl.innerText = 'Carregando...';
             autorAl.innerText = '';
 
@@ -54,11 +57,15 @@
                 const indice = Math.floor(Math.random() * dados.length);
 
                 setTimeout(() => {
+                    fraseAl.classList.remove('loading');
+                    fraseAl.style.opacity = '1';
+                    autorAl.style.opacity = '1';
                     fraseAl.innerText = `"${dados[indice].frase}"`;
                     autorAl.innerText = `— ${dados[indice].autor}`;
                 }, 600);
 
             } catch (error) {
+                
                 fraseAl.innerText = 'Erro ao carregar frase';
                 console.error(error);
             }

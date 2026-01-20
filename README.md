@@ -1,10 +1,10 @@
 # :star2: Frases Motivacionais
 
 ### Sobre o projeto
-Este projeto consiste em uma **API simples de Frases Motivacionais**, desenvolvida com Node.js, que disponibiliza as frases armazenadas em um arquivo Json e permite que um front-end use essas frases de forma dinâmica.
+Este projeto consiste em um **gerador simples de frases motivacionais**, desenvolvido com Node.js, onde as frases são armazenadas em um arquivo JSON e consumidas pelo front-end, que é responsável por exibir as frases de forma aleatória.
 
 ### Objetivo do projeto
-Projeto faz parte do meu processo de aprendizado em desenvolvimento web, com foco em boas práticas, organização e entendimento dos conceitos fundamentais de  front-end, back-end, consumo de APIs.
+Projeto faz parte do meu processo de aprendizado em desenvolvimento web, com foco em boas práticas, organização e entendimento dos conceitos fundamentais de front-end e back-end.
 
 ### Funcionalidades 
 * Leitura de frases a partir de um arquivo JSON;

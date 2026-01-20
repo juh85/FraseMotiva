@@ -27,6 +27,9 @@ Projeto faz parte do meu processo de aprendizado em desenvolvimento web, com foc
 **Acesse:**  
 http://localhost/www/FraseMotiva/public/index.html
 
+<img width="460" height="320" alt="image" src="https://github.com/user-attachments/assets/e7b6b187-de01-4999-b41b-87f873bc3174" />
+
+
 
 :woman_technologist: **Desenvolvido por**  
 *Juliana Cordeiro*  

@@ -8,13 +8,11 @@ Projeto faz parte do meu processo de aprendizado em desenvolvimento web, com foc
 
 ### Funcionalidades 
 * Leitura de frases a partir de um arquivo JSON;
-* Retorno de frases aleatórias via API;
 * Comunicação entre front-end e back-end (CORS);
 
 ### Tecnologias
 * JavaScript
 * Node.js
-* APIs REST
 * HTML5 / CSS3
 * Express.js
 * JSON

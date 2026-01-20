@@ -14,13 +14,62 @@
     </div>
 
     <div class="container">
-        <h2> Bem-vindo ao gerador de frases motivacionais</h2>
-        <p>Aqui você vai encontrar frases motivacionais para começar o seu dia com positividade</p>
-        <button class="botao">Gerar Frase</button>
-    </div>
+        <div id="intro">
+            <h2> Bem-vindo ao gerador de frases motivacionais</h2>
+            <p>Aqui você vai encontrar frases motivacionais para começar o seu dia com positividade</p>
+            <button onclick="gerarFrase()" class="botao">Gerar Frase</button>
+        </div>
 
-<footer class="rodape">
-<p> Desenvolvido por <a class="link" href="https://www.linkedin.com/in/juliana-cordeiro0">Juliana Cordeiro</a></p>
-</footer>
+        <div class="resultado">
+            <h1 id="frase" class="frase"></h1>
+            <small id="autor" class="autor"></small>
+            <button onclick="gerarFrase()" class="botao">Gerar Frase</button>
+        </div>
+
+    </div>
+    <script>
+        // Garante que ao carregar a página, apenas a intro está visível
+        window.addEventListener('DOMContentLoaded', () => {
+            document.getElementById('intro').style.display = 'block';
+            document.querySelector('.resultado').style.display = 'none';
+        });
+
+        async function gerarFrase() {
+            // Esconde a introdução
+            document.getElementById('intro').style.display = 'none';
+
+            // Mostra área de resultado
+            document.querySelector('.resultado').style.display = 'block';
+
+            const fraseAl = document.getElementById('frase');
+            const autorAl = document.getElementById('autor');
+
+            fraseAl.innerText = 'Carregando...';
+            autorAl.innerText = '';
+
+            try {
+                const response = await fetch('http://localhost:3000/frases');
+                const dados = await response.json();
+
+                const indice = Math.floor(Math.random() * dados.length);
+
+                setTimeout(() => {
+                    fraseAl.innerText = `"${dados[indice].frase}"`;
+                    autorAl.innerText = `— ${dados[indice].autor}`;
+                }, 600);
+
+            } catch (error) {
+                fraseAl.innerText = 'Erro ao carregar frase';
+                console.error(error);
+            }
+        }
+
+
+    </script>
+
+    <footer class="rodape">
+        <p> Desenvolvido por <a class="link" href="https://www.linkedin.com/in/juliana-cordeiro0">Juliana Cordeiro</a>
+        </p>
+    </footer>
 
 </body>
